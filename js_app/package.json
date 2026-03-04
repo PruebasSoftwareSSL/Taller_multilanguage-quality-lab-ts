@@ -4,7 +4,7 @@
   "type": "commonjs",
   "scripts": {
     "test": "jest --passWithNoTests",
-    "lint": "eslint src"
+    "lint": ".eslintrc.json"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
